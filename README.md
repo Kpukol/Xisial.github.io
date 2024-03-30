@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
     <title>Ìîé ñàéò</title>
@@ -9,12 +8,12 @@
         }
         #menu {
             text-align: center;
-            padding: 10px;
+            padding: 30px;
         }
         #chat {
-            width: 80%;
+            width: 10%;
             margin: 0 auto;
-            padding: 10px;
+            padding: 30px;
         }
     </style>
 </head>
@@ -29,10 +28,10 @@
     </div>
 
     <div id="chat">
-        <h2>×àò</h2>
+        <h2>Поисковик</h2>
         <form>
-            <textarea rows="4" cols="50"></textarea><br>
-            <input type="submit" value="Îòïðàâèòü">
+            <textarea rows="1" cols="65"></textarea><br>
+            <input type="submit" value="Найти">
         </form>
     </div>
 </body>
